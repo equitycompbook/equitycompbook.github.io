@@ -11096,7 +11096,8 @@ a.theme-link:hover {
 .site-logo .logo-text {
     color: #1c1e2e;
     font-size: 1.5rem;
-    font-weight: bold
+    font-weight: bold;
+    max-width: 0.5rem;
 }
 
 .footer .copyright {
@@ -11242,7 +11243,7 @@ a.theme-link:hover {
     display: inline-block;
     width: 36px;
     height: 36px;
-    background: #f5a782;
+    background: #7cab77;
     color: #fff;
     text-align: center;
     border-radius: 50%;
